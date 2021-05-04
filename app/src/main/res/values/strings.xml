@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cocktail_MVVM</string>
+    <string name="error">error</string>
 </resources>
